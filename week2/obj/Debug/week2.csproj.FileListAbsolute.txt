@@ -1,0 +1,160 @@
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\ApplicationInsights.config
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\csc.exe
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\System.Collections.Immutable.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\System.Reflection.Metadata.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\vbc.exe
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\VBCSCompiler.exe
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\roslyn\VBCSCompiler.exe.config
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\week2.dll.config
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\week2.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\week2.pdb
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Antlr3.Runtime.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\AspNet.ScriptManager.bootstrap.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\AspNet.ScriptManager.jQuery.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\EntityFramework.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\EntityFramework.SqlServer.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.Agent.Intercept.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.DependencyCollector.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.Web.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.WindowsServer.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.ApplicationInsights.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.FriendlyUrls.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.Identity.Core.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.Cookies.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.Facebook.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.Google.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.OAuth.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.Twitter.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.ScriptManager.MSAjax.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.ScriptManager.WebForms.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Web.Infrastructure.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Newtonsoft.Json.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Owin.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\System.Web.Optimization.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\System.Web.Providers.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\WebGrease.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.DependencyCollector.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.Web.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AI.WindowsServer.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.ApplicationInsights.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\System.Web.Optimization.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Antlr3.Runtime.pdb
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Newtonsoft.Json.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.FriendlyUrls.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\EntityFramework.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\EntityFramework.SqlServer.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.Identity.Core.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\System.Web.Providers.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.Facebook.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.Cookies.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.Google.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.Twitter.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\bin\Microsoft.Owin.Security.OAuth.xml
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\obj\Debug\week2.csprojResolveAssemblyReference.cache
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\obj\Debug\week2.dll
+d:\users\matthewc\documents\visual studio 2015\Projects\week2\week2\obj\Debug\week2.pdb
+C:\Users\52437\Desktop\week2\week2\bin\ApplicationInsights.config
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\csc.exe
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\vbc.exe
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\VBCSCompiler.exe
+C:\Users\52437\Desktop\week2\week2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\52437\Desktop\week2\week2\bin\week2.dll.config
+C:\Users\52437\Desktop\week2\week2\bin\week2.dll
+C:\Users\52437\Desktop\week2\week2\bin\week2.pdb
+C:\Users\52437\Desktop\week2\week2\bin\Antlr3.Runtime.dll
+C:\Users\52437\Desktop\week2\week2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\52437\Desktop\week2\week2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\52437\Desktop\week2\week2\bin\EntityFramework.dll
+C:\Users\52437\Desktop\week2\week2\bin\EntityFramework.SqlServer.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.Web.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\52437\Desktop\week2\week2\bin\Newtonsoft.Json.dll
+C:\Users\52437\Desktop\week2\week2\bin\Owin.dll
+C:\Users\52437\Desktop\week2\week2\bin\System.Web.Optimization.dll
+C:\Users\52437\Desktop\week2\week2\bin\System.Web.Providers.dll
+C:\Users\52437\Desktop\week2\week2\bin\WebGrease.dll
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.Web.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\52437\Desktop\week2\week2\bin\System.Web.Optimization.xml
+C:\Users\52437\Desktop\week2\week2\bin\Antlr3.Runtime.pdb
+C:\Users\52437\Desktop\week2\week2\bin\Newtonsoft.Json.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\52437\Desktop\week2\week2\bin\EntityFramework.xml
+C:\Users\52437\Desktop\week2\week2\bin\EntityFramework.SqlServer.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\52437\Desktop\week2\week2\bin\System.Web.Providers.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\52437\Desktop\week2\week2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\52437\Desktop\week2\week2\obj\Debug\week2.csprojAssemblyReference.cache
+C:\Users\52437\Desktop\week2\week2\obj\Debug\week2.csproj.CoreCompileInputs.cache
+C:\Users\52437\Desktop\week2\week2\obj\Debug\week2.csproj.CopyComplete
+C:\Users\52437\Desktop\week2\week2\obj\Debug\week2.dll
+C:\Users\52437\Desktop\week2\week2\obj\Debug\week2.pdb

@@ -1,0 +1,18 @@
+﻿body {
+}
+.centerMiddleContainer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.centerMiddle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navigationBar {
+background-color:aquamarine;
+margin:0px;
+padding:3px;
+}
